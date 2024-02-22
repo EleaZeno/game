@@ -1,0 +1,113 @@
+"config"
+{
+	"bindings"
+	{
+		"0"		"slot5"
+		"1"		"slot7"
+		"2"		"slot8"
+		"3"		"slot10"
+		"4"		"slot6"
+		"5"		"slot9"
+		"6"		"slot11"
+		"7"		"<unbound>"
+		"8"		"<unbound>"
+		"9"		"<unbound>"
+		"a"		"+moveleft"
+		"b"		"buymenu"
+		"d"		"+moveright"
+		"e"		"+use"
+		"f"		"+lookatweapon"
+		"g"		"drop"
+		"i"		"show_loadout_toggle"
+		"k"		"+spray_menu"
+		"m"		"teammenu"
+		"q"		"lastinv"
+		"r"		"+reload"
+		"s"		"+back"
+		"t"		"+voicerecord"
+		"u"		"messagemode2"
+		"w"		"+forward"
+		"x"		"slam_play"
+		"y"		"messagemode"
+		"z"		"radio"
+		"`"		"toggleconsole"
+		","		"buyammo1"
+		"."		"bind = 1; slam_updatecfg; echo Loaded: 小刀会序曲-林友声-1649336"
+		"/"		"bind = 2; slam_updatecfg; echo Loaded: 闯将令-黄英华-11114553"
+		"="		"2"
+		"SPACE"		"+duck"
+		"TAB"		"+showscores"
+		"ESCAPE"		"cancelselect"
+		"DEL"		"mute"
+		"PAUSE"		"pause"
+		"SHIFT"		"+speed"
+		"ALT"		"+back"
+		"F3"		"autobuy"
+		"F4"		"rebuy"
+		"F5"		"jpeg"
+		"F6"		"save quick"
+		"F7"		"load quick"
+		"F10"		"quit prompt"
+		"F11"		"bind = 1; slam_updatecfg; echo Loaded: 小刀会序曲-林友声-1649336"
+		"F12"		"bind = 2; slam_updatecfg; echo Loaded: 闯将令-黄英华-11114553"
+		"MOUSE1"		"+attack"
+		"MOUSE2"		"+attack2"
+		"MOUSE3"		"player_ping"
+		"MOUSE4"		"slot2"
+		"MWHEELUP"		"slot1"
+		"KP_INS"		"+cl_show_team_equipment"
+		"KP_DEL"		"slot3"
+		"KP_DOWNARROW"		"buy smokegrenade;"
+		"KP_PGDN"		"buy Incgrenade;buy Molotov;"
+		"KP_PGUP"		"r_cleardecals"
+		"CTRL"		"<unbound>"
+		"KP_UPARROW"		"say_team !drop"
+		"MWHEELDOWN"		"+jump"
+		"v"		"noclip"
+		"MOUSE5"		"+jump;-attack;-attack2;-jump"
+		"KP_END"		"buy flashbang;"
+		"KP_RIGHTARROW"		"buy hegrenade;"
+		"KP_LEFTARROW"		"buy vest;"
+		"KP_5"		"buy vesthelm; buy vest;"
+		"c"		"<unbound>"
+		"h"		"<unbound>"
+		"j"		"<unbound>"
+		"l"		"<unbound>"
+		"n"		"<unbound>"
+		"o"		"<unbound>"
+		"p"		"<unbound>"
+		"["		"<unbound>"
+		"]"		"<unbound>"
+		"SEMICOLON"		"<unbound>"
+		"'"		"<unbound>"
+		"\"		"<unbound>"
+		"-"		"<unbound>"
+		"ENTER"		"<unbound>"
+		"BACKSPACE"		"<unbound>"
+		"CAPSLOCK"		"<unbound>"
+		"INS"		"<unbound>"
+		"HOME"		"<unbound>"
+		"END"		"<unbound>"
+		"PGUP"		"<unbound>"
+		"PGDN"		"<unbound>"
+		"CAPSLOCKTOGGLE"		"<unbound>"
+		"RSHIFT"		"<unbound>"
+		"RALT"		"<unbound>"
+		"RCTRL"		"<unbound>"
+		"UPARROW"		"<unbound>"
+		"LEFTARROW"		"<unbound>"
+		"DOWNARROW"		"<unbound>"
+		"RIGHTARROW"		"<unbound>"
+		"F1"		"<unbound>"
+		"F2"		"<unbound>"
+		"F8"		"<unbound>"
+		"F9"		"<unbound>"
+		"KP_MULTIPLY"		"<unbound>"
+		"KP_PLUS"		"<unbound>"
+		"KP_MINUS"		"<unbound>"
+		"KP_HOME"		"<unbound>"
+		"KP_DIVIDE"		"<unbound>"
+		"KP_ENTER"		"<unbound>"
+		"NUMLOCK"		"<unbound>"
+	}
+}
